@@ -1,0 +1,135 @@
+.u-section-1 {
+  background-image: url("images/istockphoto-1226478932-170667a.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1226px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 435px;
+  background-image: none;
+  min-height: 561px;
+  animation-duration: 1000ms;
+  box-shadow: -2px 2px 8px 0 rgba(128,128,128,1);
+  margin: 261px auto 60px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 25px 0 17px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 195px;
+  height: 195px;
+  background-image: url("images/WhatsAppImage2021-12-11at12.58.32AM.jpeg");
+  background-position: 50% 50%;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Advent Pro";
+  font-weight: bold;
+  font-size: 2.25rem;
+  text-shadow: 0 2px 15px rgba(219,84,90,1);
+  margin: 18px 68px 0 51px;
+}
+
+.u-section-1 .u-text-2 {
+  background-image: none;
+  text-shadow: 2px 2px 8px rgba(245,214,84,0.8);
+  font-size: 2.25rem;
+  font-weight: normal;
+  margin: 18px 103px 0 86px;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: "Advent Pro";
+  margin: 59px 148px 0 131px;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 65px;
+  min-height: 16px;
+  width: 399px;
+  min-width: 152px;
+  margin: 36px 6px 0 auto;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 100%;
+  color: rgb(59, 89, 152) !important;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 100%;
+  color: rgb(197, 54, 164) !important;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 100%;
+  color: rgb(0, 230, 118) !important;
+}
+
+.u-section-1 .u-icon-4 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-1 .u-icon-5 {
+  height: 100%;
+  color: rgb(53, 194, 53) !important;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-2 {
+    width: 196px;
+    margin-right: 102px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-1 {
+    min-height: 472px;
+    width: 356px;
+    margin-top: 279px;
+    margin-right: -16px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 5px;
+    padding-bottom: 14px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 19px;
+    margin-right: 0;
+    margin-left: 13px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.875rem;
+    font-weight: 700;
+    margin-top: 9px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: 37px;
+    margin-right: 109px;
+    margin-left: 101px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    height: 47px;
+    width: 308px;
+    animation-duration: 1000ms;
+    margin-top: 21px;
+    margin-right: auto;
+    margin-left: 13px;
+  }
+}
